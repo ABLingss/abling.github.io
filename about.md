@@ -1,6 +1,7 @@
 ---
 layout: page
-title: 关于
+title: 联系我
 permalink: /about/
 ---
-这是关于页面的内容。
+QQ: 3028854310
+GitHub : https://github.com/ABLingss
