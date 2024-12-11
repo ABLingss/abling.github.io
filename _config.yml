@@ -26,7 +26,7 @@ footer:
 # Author 配置博主信息
 author: 'ABLing'
 nickname: '人'
-bio: '什么都开发'
+bio: '祝你幸福捏'
 avatar: '/assets/img/Rei.jpg'
 
 # Search
@@ -48,7 +48,7 @@ social-share: true
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'circuitBoard'
@@ -58,6 +58,8 @@ postPatterns: 'circuitBoard'
 sns:
   github: '//https://github.com/ABLingss'
   juejin: '//juejin.im/user/2162060520860596'
+  email: '2024090912018@std.uestc.edu.cn'
+  zhihu: 'https://www.zhihu.com/people/lingjun-4'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
