@@ -15,10 +15,13 @@ tags: 随便聊聊
 > 总之，活得快乐点，活得自由点，活得真实点。希望大家在这一年里，不忘自己最初的梦想，勇敢地去追求，也不要害怕失败。因为，能活下去，已经是最伟大的成功。  
 > 
 >    新的一年，我祝大家一切顺利。
+> 
+
 <figure>
   <img src="https://www.helloimg.com/i/2025/01/01/677417be3f279.jpg" alt="胶片" width="700" height="200">
   <figcaption>为了道别的聚会</figcaption>
 </figure>
+
 
 ### 【瞬间】
 
@@ -70,31 +73,14 @@ tags: 随便聊聊
 
 ### 【碎碎念】
 
+<figure>
+  <img src="https://www.helloimg.com/i/2025/01/01/677417bf2c891.jpg" alt="猫猫" width="500" height="300">
+  <figcaption>猫猫</figcaption>
+</figure>
+
 不管你什么时候读到这段话，我都希望你能在这个新的一年里，好好地爱自己，好好地爱自己，好好地爱自己。
 
 谢谢你窥见我心的一隅，谢谢你陪我走过阅读的这两分钟。我想让你知道，未来的日子，我会好好陪着你，所以你也要好好幸福。
 
-<div class="fade-out">
-  <img src="https://www.helloimg.com/i/2025/01/01/677417bf2c891.jpg" alt="猫猫" width="500" height="400">
-  <figcaption></figcaption>
-</div>
 
 
-<style>
-.fade-out {
-  position: relative;
-  width: 420px; /* 设置图片宽度 */
-  height: 280px; /* 设置图片高度 */
-}
-
-.fade-out::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 1) 100%);
-  pointer-events: none; /* 确保渐变层不影响图片的交互性 */
-}
-</style>
