@@ -85,3 +85,6 @@ permalink: /:year/:month/:day/:title.html
 
 # Plugins
 plugins: [jekyll-paginate]
+
+# 允许未来时间
+future: true
