@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '技术栈'
-subtitle: '我会的我会的我会的'
+title: 技术栈
+subtitle: 我会的我会的我会的
 date: 2024-12-11
 categories: 技术
 tags: 技术
