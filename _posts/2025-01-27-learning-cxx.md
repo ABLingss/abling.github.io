@@ -23,7 +23,7 @@ tags:
     ```
 - 流修饰符 <https://zh.cppreference.com/w/cpp/io/manip>
   - ***流修饰符改变的是全局状态***
-  - 这也太唐了 真不如printf
+  - 这也太唐了 真不如printf 
 ### 解决流输出的问题 用fmt库 他是类型安全的  支持流不支持的输出
   - 已经进入c++20标准
   - 你可以
