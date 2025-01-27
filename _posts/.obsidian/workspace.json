@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-24-will.md",
+                "file": "2025-01-27-learning-cxx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-24-will"
+              "title": "2025-01-27-learning-cxx"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025-01-24-will.md"
+                "file": "2025-01-27-learning-cxx.md"
               },
               "icon": "lucide-list",
-              "title": "2025-01-24-will 的大纲"
+              "title": "2025-01-27-learning-cxx 的大纲"
             }
           },
           {
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 440.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +175,9 @@
   },
   "active": "3c0c867e62642ddc",
   "lastOpenFiles": [
-    "2025-01-06.md",
     "2025-01-24-will.md",
+    "2025-01-27-learning-cxx.md",
+    "2025-01-06.md",
     "未命名.md",
     "2025-01-06-spring.md",
     "未命名 1.canvas",
